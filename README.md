@@ -37,6 +37,13 @@
 - [SEO](/SEO/README.md)
 - [Django](/Web%20Development/Backend%20Web%20Development/Django/Readme.md)
 - [Bash Scripting](/Bash-Scripting/README.md)
+- [Game Development/Unity](/Game%20Development/Unity/Readme.md)
+- [Graphic Design](/Graphic Design/README.md)
+- [Object oriented Programming](/Object oriented Programming/README.md)
+- [Python](/Python/README.md)
+- [Robotics](/Robotics/Readme.md)
+- [UI_UX](/UI_UX/Readme.md)
+- [Web3 Development](/Web3 Development/README.md)
 
 ## Contributing
 
