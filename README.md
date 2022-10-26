@@ -37,13 +37,13 @@
 - [SEO](/SEO/README.md)
 - [Django](/Web%20Development/Backend%20Web%20Development/Django/Readme.md)
 - [Bash Scripting](/Bash-Scripting/README.md)
-- [Game Development/Unity](/Game%20Development/Unity/Readme.md)
-- [Graphic Design](/Graphic Design/README.md)
-- [Object oriented Programming](/Object oriented Programming/README.md)
-- [Python](/Python/README.md)
-- [Robotics](/Robotics/Readme.md)
-- [UI_UX](/UI_UX/Readme.md)
-- [Web3 Development](/Web3 Development/README.md)
+- [Game Development/Unity](https://github.com/askbuddie/roadmap/blob/main/Game%20Development/Unity/Readme.md)
+- [Graphic Design](https://github.com/askbuddie/roadmap/blob/main/Graphic%20Design/README.md)
+- [Object oriented Programming](https://github.com/askbuddie/roadmap/blob/main/Object%20oriented%20Programming/README.md)
+- [Python](https://github.com/askbuddie/roadmap/blob/main/Python/README.md)
+- [Robotics](https://github.com/askbuddie/roadmap/blob/main/Robotics/Readme.md)
+- [UI_UX](https://github.com/askbuddie/roadmap/blob/main/UI_UX/Readme.md)
+- [Web3 Development](https://github.com/askbuddie/roadmap/blob/main/Web3%20Development/README.md)
 
 ## Contributing
 
